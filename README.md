@@ -32,16 +32,16 @@ hesitate to do so.
 
 To add a page, just create a new folder in root directory and add `index.md` in
 it.    
-You can copy one of existing pages as an example and then edit it.
+Don't forget to insert following header:
+```
+---
 
-It will be amazing if you wrap strings longer then 80 characters and add
-following header to all new pages:
-```
----
 layout: default
+
 ---
-<!-- vim: set textwidth=80 colorcolumn=80: -->
 ```
+
+You can copy one of existing pages as an example and then edit it.
 
 ## Preview changes
 

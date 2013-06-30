@@ -1,7 +1,8 @@
 ---
+
 layout: default
+
 ---
-<!-- vim: set textwidth=80 colorcolumn=80: -->
 <!-- Please, wrap strings longer than 80 characters -->
 
 # Resources for self-education
