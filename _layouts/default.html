@@ -6,6 +6,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="chrome=1" />
         <link rel="stylesheet" href="{{site.url}}/css/self-educate.css">
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-41864668-1', 'tonyganch.com');
+            ga('send', 'pageview');
+        </script>
     </head>
     <body>
         <a href="https://github.com/tonyganch/self-educate" class="gh-ribbon">
@@ -15,14 +23,5 @@
         <div class="content">
             {{ content | markdownify }}
         </div>
-
-        <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            try {
-                var pageTracker = _gat._getTracker("UA-41864668-1");
-                pageTracker._trackPageview();
-            } catch(err) {}
-        </script>
     </body>
 </html>
