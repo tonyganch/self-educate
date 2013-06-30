@@ -15,10 +15,12 @@ Feel free to update the list with any project that, in your opinion, will help
 other people become harder, better, faster, stronger.
 
 File that you need to edit is `index.md`.    
+For Python or Ruby you'll need `python/index.md` or `ruby/index.md`
+respectively.    
 Just find an appropriate group and add a link.    
 Short and helpful descriptions are very welcome.
 
-If you feel that some links should be moved to a new group, don't hesitate to
-do so.
+If you feel that some links should be moved to a new group (or page), don't
+hesitate to do so.
 
 

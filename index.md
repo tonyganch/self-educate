@@ -17,6 +17,9 @@ resources.
 Feel free to update the list with any project that, in your opinion, will help
 other people become harder, better, faster, stronger.
 
+Want to learn Ruby? We have [a special page]({{ site.url }}/ruby) for it.    
+And for [Python]({{ site.url}}/python) too.
+
 ## Online courses
 
 - [Coursera](https://www.coursera.org/) — Almost 400 different courses on
@@ -51,40 +54,9 @@ other people become harder, better, faster, stronger.
   to write programs in Ruby, Python or JavaScript and share them with others.
 - [Code School](http://www.codeschool.com/) — JS, Ruby, HTML/CSS, iOS, Git, R.
 
-### Python
-
-- [Learn Python](http://www.learnpython.org/)
-- [PythonMonk](http://pythonmonk.com/)
-- [Try Python](http://www.trypython.org/) — You need Silverlight to use this
-  site.
-
-### Ruby
-
-- [Try Ruby](http://tryruby.org/levels/1/challenges/0) — a tribute to why's
-  (poignant) guide to ruby
-- [RubyMonk](http://rubymonk.com/)
-
 ## Free online books, awesome docs and screencasts
 
 - [Learn Regex the hard way](http://regex.learncodethehardway.org/book/)
-
-### Python
-
-- [Learning with Python: Interactive
-  Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-- [Learn Python the hard way](http://learnpythonthehardway.org/book/)
-
-### Ruby
-- [Why (poignant) guide to ruby](http://www.rubyinside.com/media/poignant-guide.pdf)
-- [Ruby on Rails tutorial: Learn Web development with
-  Rails](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) — Excellent
-  book, if you want to learn Rails by example. Step by step you'll learn how to
-  create Twitter-like app — from database schema to views.
-- [RailsCasts](http://railscasts.com/) — Ruby on Rails Screencasts
-- [Ruby on Rails Guides](http://guides.rubyonrails.org/)
-- [Ruby on Rails API](http://api.rubyonrails.org/)
-- [Ruby Doc](http://ruby-doc.org/) — Help and doocumentation for Ruby
-- [Learn ruby the hard way](http://ruby.learncodethehardway.org/book/)
 
 ## Problems
 
@@ -111,11 +83,6 @@ Golf is a competition to write the shortest code to solve a given problem.
 - [Golf JS](http://golfjs.com/)
 - [JS1K](http://js1k.com/)
 - [CSS1K](http://css1k.com/)
-
-### Python
-
-- [Python Challenge](http://www.pythonchallenge.com/)
-- [Rosalind](http://rosalind.info/) — Learn bioinformatics through problem solving.
 
 ### Vim
 - [Vim Adventures](http://vim-adventures.com/)
