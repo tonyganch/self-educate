@@ -17,8 +17,8 @@ resources.
 Feel free to update the list with any project that, in your opinion, will help
 other people become harder, better, faster, stronger.
 
-Want to learn Ruby? We have [a special page]({{ site.url }}/ruby) for it.    
-And for [Python]({{ site.url}}/python) too.
+Want to learn Ruby? We have [a special page]({{site.url}}/ruby) for it.    
+And for [Python]({{site.url}}/python) too.
 
 ## Online courses
 
